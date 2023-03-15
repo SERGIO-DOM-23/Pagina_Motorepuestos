@@ -1,12 +1,13 @@
 *{
-  
   padding: 0%;
   margin: 0%;
   box-sizing: border-box;
 }
 
-
 .mainA{
+  background-image:url(../img/varias/fondo1.jpeg );
+  background-repeat: no-repeat;
+  background-size: cover;  
   display: flex;
   gap: 4rem;
   
